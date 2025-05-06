@@ -56,10 +56,6 @@ print(result)
 ```
 
 
-
-
-
-```
 ## Output:
 ### 1-Norm of a Matrix
 ![alt text](<Screenshot 2025-05-06 191702.png>)
