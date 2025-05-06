@@ -13,7 +13,6 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Register No: DILLIGANESAN K
 # Developed By: 212224100014
 # 1-Norm of a Matrix
-```
 '''
 Program to find 2-norm of a matrix.
 Developed by: DILLIGANESAN K
